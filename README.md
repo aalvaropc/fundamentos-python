@@ -2,8 +2,9 @@
 <p>El curso asume que tienes conocimientos de algoritmos y ciertos lenguajes de programación.</p>
 <p><img src="https://github.com/aalvaropc/FundamentosPython/blob/main/img/learn-python.png" width="990" height="270"></p>
 
-## SESIÓN 1
-<h4>TIPOS DE DATOS</h4>
+<details><summary><h2>SESION1</h2></summary>
+
+<details><summary><h3>TIPOS DE DATOS</h3></summary>
 
 - NUMERICOS
 
@@ -52,4 +53,42 @@
 |------|---|---|
 | NoneType | Es devuelto por funciones que no devuelven explícitamente un valor| None|
 
+</details>
+<details><summary><h3>VARIABLES</h3></summary>
+
+Son contenedores que almacenan valores.
+
+<h3>REGLAS PARA CREAR VARIABLES</h4>
+
+- Debe comenzar con una letra o el carácter de subrayado.
+
+- No puede comenzar con un número.
+
+- Solo puede contener caracteres alfanuméricos y guiones bajos (A-z, 0-9 y _).
+
+- Distinguen entre mayúsculas y minúsculas (nombre, Nombre y NOMBRE son tres variables diferentes).
+
+- Las palabras reservadas (palabras clave) no se pueden usar para nombrar la variable.
+
+<h3>DECLARANDO VARIABLES</h3>
+
+```python
+saludo = "hola"
+edad = 30
+```
+
+<h3>CASTING</h3>
+
+```python
+x = str(3)    # x será '3'
+y = int(3)    # y será 3
+z = float(3)  # z será 3.0
+```
+</details>
+
+<details><summary><h3>ESTRUCTURA CONDICIONAL IF, ELIF Y ELSE</h3></summary>
+
+
+</details>
+</details>
 
