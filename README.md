@@ -1,5 +1,5 @@
 # FUNDAMENTOS DE PYTHON <img src="https://github.com/aalvaropc/FundamentosPython/blob/main/img/dsc-sticker-files-brackets.png " width="40">
-<p>El curso asume que tienes conocimientos de algoritmos y ciertos lenguajes de programación.</p>
+
 <p><img src="https://github.com/aalvaropc/FundamentosPython/blob/main/img/learn-python.png" width="990" height="270"></p>
 
 <details><summary><h2>SESION1</h2></summary>
