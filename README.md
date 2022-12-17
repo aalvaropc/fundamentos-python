@@ -158,6 +158,8 @@ print(es_mayor) #True
 </details>
 
 <h3>Documentación</h3>
+
 - Python documentación: https://docs.python.org/es/3/
+
 - Propuestas de mejora de Python(PEP): https://peps.python.org/
 
