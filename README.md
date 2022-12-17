@@ -157,3 +157,9 @@ print(es_mayor) #True
 </details>
 </details>
 
+<h3>Documentacion</h3>
+Python documentación
+https://docs.python.org/es/3/
+Propuestas de mejora de Python(PEP)
+https://peps.python.org/
+
