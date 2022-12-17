@@ -87,8 +87,73 @@ z = float(3)  # z será 3.0
 </details>
 
 <details><summary><h3>ESTRUCTURA CONDICIONAL IF, ELIF Y ELSE</h3></summary>
+  
+La estructura  if/elif/else es una forma común de controlar el flujo de un programa, lo que te permite ejecutar bloques de código específicos según el valor de algunos datos
+  
+<h3>SENTENCIA IF</h3>
+  
+Si la condición que sigue a la palabra clave if  se evalúa como verdadera, el bloque de código se ejecutará. Ten en cuenta que los paréntesis no se utilizan antes y después de la verificación de condición como en otros idiomas.
+ 
+```python
+if True:
+  print("Se mustra este mensaje")
+```
+  
+<h3>SENTENCIA ELSE</h3>
+  
+Opcionalmente, puedes agregar una respuesta else que se ejecutará si la condición es false.
 
+```python
+if not True:
+  print('¡La sentencia If se ejecutará!')
+else:
+  print('¡La sentencia Else se ejecutará!')
+```
+  
+<h3>SENTENCIA ELIF</h3>
 
+Se pueden verificar varias condiciones al incluir una o más verificaciones elif después de su declaración if inicial. Ten en cuenta que solo se ejecutará una condición:
+
+```python
+z = 7
+
+if z > 8:
+  print("¡No voy a imprimir!") #esta sentencia no se ejecuta
+elif z > 5:
+  print("¡Yo lo haré!") #esta sentencia se ejecuta
+elif z > 6:
+  print("¡Tampoco voy a imprimir!") #esta sentencia no se ejecuta
+else:
+  print("¡Yo tampoco!") #esta sentencia no se ejecuta
+``` 
+Solo se ejecutará la primera condición que se evalúe como true. Aunque z > 6 es true, el bloque if/elif/else termina después de la primera condición verdadera. Esto significa que un else solo se ejecutará si ninguna de las condiciones es true.
+  
+<h3>SENTENCIAS IF ANIDADAS</h3>
+  
+También podemos crear if anidados para la toma de decisiones.
+Tomemos un ejemplo de cómo encontrar un número que sea par y también mayor que 10
+
+```python
+x = 34
+if x %  2 == 0:  # así es como creas un comentario y ahora comprueba número par.
+  if x > 10:
+    print("Este número es par y es mayor que 10")
+  else:
+    print("Este número es par, pero no mayor 10")
+else:
+  print("El número no es par. Así que punto de verificación más.")
+``` 
+<h3>DECLARACIÓN IF-ELSE EN LINEA</h3>
+
+Podemos usar declaraciones if-else en funciones de Python en línea.
+El siguiente ejemplo debe verificar si el número es mayor o igual que 50, si es así, retorna True:
+
+```python
+x = 89
+es_mayor = True if x >= 50 else False
+
+print(es_mayor) #True
+``` 
 </details>
 </details>
 
