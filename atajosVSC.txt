@@ -1,0 +1,14 @@
+ctrl + ñ = abrir la terminal
+ctrl + b = desplegar sideBar
+ctrl + shift + p = deplegar paleta de comandos
+ctrl + s = guardar archivo
+ctrl + f = abre el cuadro de diálogo de busqueda
+ctrl + w = cerrar archivo
+ctrl + + = Acercar Zoom
+ctrl - - = Alejar Zoom
+ctrl + shift + enter = Insertar linea arriba
+ctrl + enter = Insertar linea abajo
+ctrl + k + ctrl + c = comentar linea de codigo python
+ctrl + k + ctrl + u = descomentar linea de codigo python
+
+#PARA VER LOS COMANDOS DE LA TERMINAL, DEBES ESCRIBIR "help" DENTRO DE LA CMD

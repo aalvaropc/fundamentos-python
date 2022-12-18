@@ -1,0 +1,49 @@
+2- Hallar el mayor y menor entre 3 números
+
+################################################################################################################
+3- Convertir grados fahrenheit a grados celsiuos
+
+################################################################################################################
+4- el usuario ingresa la base y la altura de un rectángulo. El algoritmo calcule y muestre su área y perímetro
+
+################################################################################################################
+5- El banco BCP le ofrece un crédito a 5 años con un interés anual del 3%, conocido el monto inicial del préstamo, calcule y muestre cuando debe de pagar al cabo de 5 años.
+
+################################################################################################################
+6- En la tienda "El buen vestir" existen los siguientes productos:
+Articulo                     Marca             Precio
+Camisa                      T-shirt            S/.100
+Pantalón                    Pants              S/. 150
+Zapatos                      Shoes             S/.190
+Ropa Interior               Underwear          S/. 40
+La tienda ofrece un descuento del: 10% en las camisas y 10% en los pantalones por la compra de 3 prendas (Sean Camisas o pantalones). 30 % por la compra de 3 pares de zapatos. Muestre el valor total de cada artículo que se compra, el valor de cada descuento obtenido y el valor total a pagar.
+
+################################################################################################################
+7- El banco de Finanzas "BankApp" quiere ampliar sus puntos de atención por lo que requiere la implementación de un cajero electrónico con las siguientes opciones. 1. Retiro de dinero /  2. Deposito de dinero / 3 Cambio de clave y 4 Finalizar. Según la opción seleccionada por el usuario, le debe de solicitar al cliente que ingrese el dato mediante el teclado y muestra en pantalla la acción realizada.
+Para el caso de Retiro y Deposito indicar si es en soles o en dólares.
+
+################################################################################################################
+8- La compañía DESITEC es líder en el rubro de alquiler de automóviles. Cobra un monto fijo de $ 300 para los primeros 400 km, cobra un monto adicional de $ 15 por cada kilometro adicional de exceso sobre los 400. Para más de 1000 km, cobra un monto adicional de $ 10 por cada km en exceso sobre los 1000. Los precios no incluyen el  16% del IVA. Calcular el monto total a pagar por el alquiler del vehículo y el IVA.
+
+################################################################################################################
+9- Convertir números a romanos
+
+################################################################################################################
+10- Calcular la edad de una persona
+
+################################################################################################################
+11- Calcular el día de cualquier fecha (ALGORITMO DE ZELLER)
+
+################################################################################################################
+12- Calcular un número capicua de 5 digitos
+
+################################################################################################################
+13- Una tienda de ropa ha establecido los porcentajes de descuento que se indican a continuación de acuerdo con ciertas características
+del comprador: nacionalidad (1,2) y del producto que compra: sexo(H,M), talla(Niño, Joven, Adulto). Se sabe que una persona puede comprar varios productos por lo que se desea mostrar como resultados lo siguiente: nombre del comprador, cantidad de productos comprados, importe comprado, importe descontado y el importe a pagar, para lo cual se deben ingresar los datos que sean necesarios
+			  Niño(sexo)	Joven(sexo) Adulto(sexo)
+Nacionalidad	 H – M       H – M     H - M
+	1		     5 – 4	     7 – 9	   10 - 12
+	2			 4 – 5       9 – 7	   12 - 10
+
+################################################################################################################
+14- Calcular el promedio final, teniendo en cuenta 3 notas de desempeño que son el 40%, 2 notas de conocimiento que son el 50% y una nota actitudinal que son 10%, respecto al promedio final
