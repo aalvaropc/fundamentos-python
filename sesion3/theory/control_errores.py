@@ -83,8 +83,13 @@ finally:
 
 
 # RAISE -> Se utiliza para generar una excepción manualmente
-def divide(a, b):
-    if b == 0:
-        raise ZeroDivisionError("No se puede dividir por cero")
-    return a / b
-print(divide(2, 0))
+def obtener_edad(edad):
+    if edad < 0:
+        raise ValueError("La edad es invalida")
+    return edad
+
+try:
+    edad = int(input("Ingresa tu edad: "))
+    obtener_edad(edad)
+except ValueError as e:
+    print(e)

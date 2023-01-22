@@ -1,0 +1,1 @@
+from .geometria_basica import area_cuadrado
