@@ -35,6 +35,7 @@ elif choice=="Proyectos":
     
 elif choice=="Contacto":
     st.header("Este es mi contacto")
+    
     nombre = st.text_input("Ingresa tu nombre")
     e_mail = st.text_input("Ingresa tu e-mail")
     mensaje = st.text_area("Ingresa tu mensaje")
